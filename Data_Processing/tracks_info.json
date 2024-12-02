@@ -1,0 +1,2508 @@
+{
+    "02-lamortdase-strings": {
+        "source_1": {
+            "instrument": "Oboe",
+            "track": "02-lamortdase-strings/Mix_1/Oboe.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "02-lamortdase-strings/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "02-lamortdase-strings/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "02-lamortdase-strings/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "02-lamortdase-strings/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 249.0
+        }
+    },
+    "AgitatoDaFiereTempeste": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "AgitatoDaFiereTempeste/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "AgitatoDaFiereTempeste/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "AgitatoDaFiereTempeste/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "AgitatoDaFiereTempeste/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "AgitatoDaFiereTempeste/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 169.0
+        }
+    },
+    "AlTardarDellaVendetta": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "AlTardarDellaVendetta/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 197.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "AlTardarDellaVendetta/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 197.0
+        },
+        "source_3": {
+            "instrument": "Violin_2",
+            "track": "AlTardarDellaVendetta/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 197.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "AlTardarDellaVendetta/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 197.0
+        }
+    },
+    "AllegroAssai": {
+        "source_1": {
+            "instrument": "Oboe_1",
+            "track": "AllegroAssai/Mix_1/Oboe_1.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_2": {
+            "instrument": "Oboe_2",
+            "track": "AllegroAssai/Mix_1/Oboe_2.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_3": {
+            "instrument": "Viola",
+            "track": "AllegroAssai/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_4": {
+            "instrument": "Violin_1",
+            "track": "AllegroAssai/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_5": {
+            "instrument": "Violin_2",
+            "track": "AllegroAssai/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "AllegroAssai/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 213.31
+        }
+    },
+    "BelPiacer": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "BelPiacer/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "BelPiacer/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "BelPiacer/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "BelPiacer/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "BelPiacer/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 230.6
+        }
+    },
+    "Calcante_ed_Achille": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Calcante_ed_Achille/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Calcante_ed_Achille/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Calcante_ed_Achille/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Calcante_ed_Achille/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Calcante_ed_Achille/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 61.0
+        }
+    },
+    "CaraSposa": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "CaraSposa/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "CaraSposa/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "CaraSposa/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "CaraSposa/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CaraSposa/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 295.0
+        }
+    },
+    "CorriVolaATuoiTrofei": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "CorriVolaATuoiTrofei/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "CorriVolaATuoiTrofei/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "CorriVolaATuoiTrofei/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "CorriVolaATuoiTrofei/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CorriVolaATuoiTrofei/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 121.0
+        }
+    },
+    "DelDestin": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "DelDestin/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 159.67
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "DelDestin/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 159.67
+        },
+        "source_3": {
+            "instrument": "Violin",
+            "track": "DelDestin/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 159.67
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "DelDestin/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 159.67
+        }
+    },
+    "DellAlmaSuperba": {
+        "source_1": {
+            "instrument": "Bassoon",
+            "track": "DellAlmaSuperba/Mix_1/Bassoon.flac",
+            "start": 0,
+            "duration": 193.0
+        },
+        "source_2": {
+            "instrument": "Cello",
+            "track": "DellAlmaSuperba/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 193.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "DellAlmaSuperba/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 193.0
+        }
+    },
+    "Fra_l_ombre": {
+        "source_1": {
+            "instrument": "Viola",
+            "track": "Fra_l_ombre/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_2": {
+            "instrument": "Violin_1",
+            "track": "Fra_l_ombre/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_3": {
+            "instrument": "Violin_2",
+            "track": "Fra_l_ombre/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Fra_l_ombre/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 169.0
+        }
+    },
+    "Greci_tu_offendi": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Greci_tu_offendi/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 225.0
+        },
+        "source_2": {
+            "instrument": "Violin",
+            "track": "Greci_tu_offendi/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 225.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Greci_tu_offendi/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 225.0
+        }
+    },
+    "ImparaIngrata": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "ImparaIngrata/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_2": {
+            "instrument": "Violin",
+            "track": "ImparaIngrata/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "ImparaIngrata/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 121.0
+        }
+    },
+    "IoGiaTAmai": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "IoGiaTAmai/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "IoGiaTAmai/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_3": {
+            "instrument": "Violin",
+            "track": "IoGiaTAmai/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "IoGiaTAmai/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 129.0
+        }
+    },
+    "LaGloriaSola": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "LaGloriaSola/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 145.0
+        },
+        "source_2": {
+            "instrument": "Violin_1",
+            "track": "LaGloriaSola/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 145.0
+        },
+        "source_3": {
+            "instrument": "Violin_2",
+            "track": "LaGloriaSola/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 145.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "LaGloriaSola/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 145.0
+        }
+    },
+    "Marche": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Marche/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Marche/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Marche/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Marche/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Marche/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 67.0
+        }
+    },
+    "MentreDormi": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "MentreDormi/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "MentreDormi/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "MentreDormi/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "MentreDormi/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "MentreDormi/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 247.0
+        }
+    },
+    "MiseroPargoletto": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "MiseroPargoletto/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "MiseroPargoletto/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "MiseroPargoletto/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "MiseroPargoletto/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "MiseroPargoletto/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 260.2
+        }
+    },
+    "NelleNubiIntornoAlFato": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "NelleNubiIntornoAlFato/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "NelleNubiIntornoAlFato/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "NelleNubiIntornoAlFato/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "NelleNubiIntornoAlFato/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "NelleNubiIntornoAlFato/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 160.0
+        }
+    },
+    "NonPensiQuellAltera": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "NonPensiQuellAltera/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 207.5
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "NonPensiQuellAltera/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 207.5
+        },
+        "source_3": {
+            "instrument": "Violin",
+            "track": "NonPensiQuellAltera/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 207.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "NonPensiQuellAltera/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 207.5
+        }
+    },
+    "Parto_ti_lascio": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Parto_ti_lascio/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Parto_ti_lascio/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Parto_ti_lascio/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Parto_ti_lascio/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Parto_ti_lascio/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 326.54
+        }
+    },
+    "Passacaglia": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Passacaglia/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Passacaglia/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Passacaglia/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Passacaglia/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Passacaglia/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 733.5
+        }
+    },
+    "Passaggier": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Passaggier/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Passaggier/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Passaggier/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Passaggier/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Passaggier/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 233.0
+        }
+    },
+    "Precipitoso_nel_mar": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Precipitoso_nel_mar/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 101.0
+        },
+        "source_2": {
+            "instrument": "Violin",
+            "track": "Precipitoso_nel_mar/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 101.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Precipitoso_nel_mar/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 101.0
+        }
+    },
+    "RM-C012": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C012/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_2": {
+            "instrument": "Flute",
+            "track": "RM-C012/Mix_1/Flute.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_3": {
+            "instrument": "Viola",
+            "track": "RM-C012/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_4": {
+            "instrument": "Violin_1",
+            "track": "RM-C012/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_5": {
+            "instrument": "Violin_2",
+            "track": "RM-C012/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C012/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 387.86
+        }
+    },
+    "RM-C013": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C013/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "RM-C013/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "RM-C013/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "RM-C013/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C013/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 499.36
+        }
+    },
+    "RM-C014": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C014/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "RM-C014/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "RM-C014/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "RM-C014/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C014/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 400.03
+        }
+    },
+    "RM-C015": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C015/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "RM-C015/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "RM-C015/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "RM-C015/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C015/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 458.06
+        }
+    },
+    "RM-C016": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C016/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_2": {
+            "instrument": "Clarinet",
+            "track": "RM-C016/Mix_1/Clarinet.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_3": {
+            "instrument": "Viola",
+            "track": "RM-C016/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_4": {
+            "instrument": "Violin_1",
+            "track": "RM-C016/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_5": {
+            "instrument": "Violin_2",
+            "track": "RM-C016/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C016/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 557.58
+        }
+    },
+    "RM-C017": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C017/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_2": {
+            "instrument": "Clarinet",
+            "track": "RM-C017/Mix_1/Clarinet.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_3": {
+            "instrument": "Viola",
+            "track": "RM-C017/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_4": {
+            "instrument": "Violin_1",
+            "track": "RM-C017/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_5": {
+            "instrument": "Violin_2",
+            "track": "RM-C017/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C017/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 293.04
+        }
+    },
+    "RM-C019": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C019/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 569.78
+        },
+        "source_2": {
+            "instrument": "Violin",
+            "track": "RM-C019/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 569.78
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C019/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 569.78
+        }
+    },
+    "RM-C020": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C020/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 619.69
+        },
+        "source_2": {
+            "instrument": "Violin",
+            "track": "RM-C020/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 619.69
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C020/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 619.69
+        }
+    },
+    "RM-C021": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "RM-C021/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "RM-C021/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "RM-C021/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "RM-C021/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "RM-C021/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 468.81
+        }
+    },
+    "Ride_il_ciel": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Ride_il_ciel/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Ride_il_ciel/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Ride_il_ciel/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Ride_il_ciel/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Ride_il_ciel/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 207.0
+        }
+    },
+    "SchubertF-D703-Quartettsatz": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "SchubertF-D703-Quartettsatz/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "SchubertF-D703-Quartettsatz/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "SchubertF-D703-Quartettsatz/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "SchubertF-D703-Quartettsatz/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "SchubertF-D703-Quartettsatz/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 590.43
+        }
+    },
+    "SeDelFiume": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "SeDelFiume/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "SeDelFiume/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "SeDelFiume/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "SeDelFiume/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "SeDelFiume/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 146.2
+        }
+    },
+    "Se_potessero": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Se_potessero/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Se_potessero/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Se_potessero/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Se_potessero/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Se_potessero/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 217.0
+        }
+    },
+    "Semiramide_riconosciuta": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Semiramide_riconosciuta/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_2": {
+            "instrument": "Oboe_1",
+            "track": "Semiramide_riconosciuta/Mix_1/Oboe_1.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_3": {
+            "instrument": "Oboe_2",
+            "track": "Semiramide_riconosciuta/Mix_1/Oboe_2.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_4": {
+            "instrument": "Viola",
+            "track": "Semiramide_riconosciuta/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_5": {
+            "instrument": "Violin_1",
+            "track": "Semiramide_riconosciuta/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_6": {
+            "instrument": "Violin_2",
+            "track": "Semiramide_riconosciuta/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Semiramide_riconosciuta/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 157.0
+        }
+    },
+    "SentiSeLIngannai": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "SentiSeLIngannai/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "SentiSeLIngannai/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "SentiSeLIngannai/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "SentiSeLIngannai/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "SentiSeLIngannai/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 98.5
+        }
+    },
+    "SiamNavi": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "SiamNavi/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "SiamNavi/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "SiamNavi/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "SiamNavi/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "SiamNavi/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 205.0
+        }
+    },
+    "Sol_la_brama": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Sol_la_brama/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Sol_la_brama/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Sol_la_brama/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Sol_la_brama/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Sol_la_brama/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 216.35
+        }
+    },
+    "Vado_a_recar": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Vado_a_recar/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 80.2
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Vado_a_recar/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 80.2
+        },
+        "source_3": {
+            "instrument": "Violin",
+            "track": "Vado_a_recar/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 80.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Vado_a_recar/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 80.2
+        }
+    },
+    "Voglio_che_sia_l_indegno": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Voglio_che_sia_l_indegno/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Voglio_che_sia_l_indegno/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Voglio_che_sia_l_indegno/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Voglio_che_sia_l_indegno/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Voglio_che_sia_l_indegno/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 287.0
+        }
+    },
+    "Voi_che_le_mie_vicende": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "Voi_che_le_mie_vicende/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "Voi_che_le_mie_vicende/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "Voi_che_le_mie_vicende/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "Voi_che_le_mie_vicende/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Voi_che_le_mie_vicende/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 116.2
+        }
+    },
+    "aasesdeath": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "aasesdeath/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "aasesdeath/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "aasesdeath/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "aasesdeath/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "aasesdeath/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 217.0
+        }
+    },
+    "anitrasdance": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "anitrasdance/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "anitrasdance/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "anitrasdance/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "anitrasdance/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "anitrasdance/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 105.62
+        }
+    },
+    "autumn": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "autumn/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "autumn/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "autumn/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "autumn/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "autumn/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 231.0
+        }
+    },
+    "concerto-in-d-minor": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "concerto-in-d-minor/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "concerto-in-d-minor/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "concerto-in-d-minor/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "concerto-in-d-minor/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_5": {
+            "instrument": "Violin_3",
+            "track": "concerto-in-d-minor/Mix_1/Violin_3.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_6": {
+            "instrument": "Violin_4",
+            "track": "concerto-in-d-minor/Mix_1/Violin_4.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "concerto-in-d-minor/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 212.2
+        }
+    },
+    "concerto-in-e-major": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "concerto-in-e-major/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "concerto-in-e-major/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "concerto-in-e-major/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "concerto-in-e-major/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_5": {
+            "instrument": "Violin_3",
+            "track": "concerto-in-e-major/Mix_1/Violin_3.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "concerto-in-e-major/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 380.64
+        }
+    },
+    "contrapunctusII": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusII/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusII/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusII/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusII/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 185.17
+        }
+    },
+    "contrapunctusIII": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusIII/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusIII/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusIII/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusIII/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusIII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 157.09
+        }
+    },
+    "contrapunctusIV": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusIV/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusIV/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusIV/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusIV/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusIV/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 287.0
+        }
+    },
+    "contrapunctusIX": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusIX/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusIX/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusIX/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusIX/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusIX/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 281.73
+        }
+    },
+    "contrapunctusV": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusV/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusV/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusV/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusV/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusV/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 183.0
+        }
+    },
+    "contrapunctusVI": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusVI/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusVI/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusVI/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusVI/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusVI/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 159.0
+        }
+    },
+    "contrapunctusVII": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusVII/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusVII/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusVII/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusVII/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusVII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 123.0
+        }
+    },
+    "contrapunctusVIII": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusVIII/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 386.2
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusVIII/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 386.2
+        },
+        "source_3": {
+            "instrument": "Violin",
+            "track": "contrapunctusVIII/Mix_1/Violin.flac",
+            "start": 0,
+            "duration": 386.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusVIII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 386.2
+        }
+    },
+    "contrapunctusX": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "contrapunctusX/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "contrapunctusX/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "contrapunctusX/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "contrapunctusX/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "contrapunctusX/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 267.73
+        }
+    },
+    "eine-kleine-nachtmusik-mvt1": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "eine-kleine-nachtmusik-mvt1/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "eine-kleine-nachtmusik-mvt1/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "eine-kleine-nachtmusik-mvt1/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "eine-kleine-nachtmusik-mvt1/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "eine-kleine-nachtmusik-mvt1/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 321.0
+        }
+    },
+    "hallelujah": {
+        "source_1": {
+            "instrument": "Bassoon",
+            "track": "hallelujah/Mix_1/Bassoon.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_2": {
+            "instrument": "Cello",
+            "track": "hallelujah/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_3": {
+            "instrument": "Oboe",
+            "track": "hallelujah/Mix_1/Oboe.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_4": {
+            "instrument": "Viola",
+            "track": "hallelujah/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_5": {
+            "instrument": "Violin_1",
+            "track": "hallelujah/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_6": {
+            "instrument": "Violin_2",
+            "track": "hallelujah/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "hallelujah/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 189.0
+        }
+    },
+    "k387": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "k387/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "k387/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "k387/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "k387/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "k387/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 341.0
+        }
+    },
+    "k421": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "k421/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "k421/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "k421/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "k421/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "k421/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 318.33
+        }
+    },
+    "k428": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "k428/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "k428/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "k428/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "k428/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "k428/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 329.0
+        }
+    },
+    "k458": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "k458/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "k458/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "k458/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "k458/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "k458/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 362.29
+        }
+    },
+    "k464": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "k464/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "k464/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "k464/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "k464/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "k464/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 348.14
+        }
+    },
+    "k465": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "k465/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "k465/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "k465/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "k465/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "k465/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 1444.0
+        }
+    },
+    "op1_1": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op1_1/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op1_1/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op1_1/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op1_1/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op1_1/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 94.0
+        }
+    },
+    "op1_2": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op1_2/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op1_2/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op1_2/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op1_2/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op1_2/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 129.0
+        }
+    },
+    "op1_3": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op1_3/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op1_3/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op1_3/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op1_3/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op1_3/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 227.29
+        }
+    },
+    "op1_4": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op1_4/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op1_4/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op1_4/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op1_4/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op1_4/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 75.57
+        }
+    },
+    "op76-n1": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op76-n1/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op76-n1/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op76-n1/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op76-n1/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op76-n1/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 338.5
+        }
+    },
+    "op76-n2": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op76-n2/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op76-n2/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op76-n2/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op76-n2/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op76-n2/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 311.0
+        }
+    },
+    "op76-n3": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op76-n3/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op76-n3/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op76-n3/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op76-n3/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op76-n3/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 305.8
+        }
+    },
+    "op76-n4": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op76-n4/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op76-n4/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op76-n4/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op76-n4/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op76-n4/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 377.0
+        }
+    },
+    "op76-n5": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op76-n5/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op76-n5/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op76-n5/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op76-n5/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op76-n5/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 318.5
+        }
+    },
+    "op76-n6": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "op76-n6/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "op76-n6/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "op76-n6/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "op76-n6/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "op76-n6/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 310.55
+        }
+    },
+    "quart18": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "quart18/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "quart18/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "quart18/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "quart18/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "quart18/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 749.0
+        }
+    },
+    "spring": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "spring/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "spring/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "spring/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "spring/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "spring/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 174.22
+        }
+    },
+    "summer": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "summer/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "summer/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "summer/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "summer/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "summer/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 253.0
+        }
+    },
+    "winter": {
+        "source_1": {
+            "instrument": "Cello",
+            "track": "winter/Mix_1/Cello.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "source_2": {
+            "instrument": "Viola",
+            "track": "winter/Mix_1/Viola.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "source_3": {
+            "instrument": "Violin_1",
+            "track": "winter/Mix_1/Violin_1.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "source_4": {
+            "instrument": "Violin_2",
+            "track": "winter/Mix_1/Violin_2.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "winter/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 109.0
+        }
+    }
+}
