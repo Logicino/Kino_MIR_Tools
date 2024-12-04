@@ -1130,12 +1130,6 @@
             "start": 0,
             "duration": 157.0
         },
-        "source_6": {
-            "instrument": "Violin_2",
-            "track": "Semiramide_riconosciuta/Mix_1/Violin_2.flac",
-            "start": 0,
-            "duration": 157.0
-        },
         "mixture": {
             "instrument": "Mixture",
             "track": "Semiramide_riconosciuta/Mix_1/mix_Mix_1.flac",
@@ -1453,12 +1447,6 @@
         "source_5": {
             "instrument": "Violin_3",
             "track": "concerto-in-d-minor/Mix_1/Violin_3.flac",
-            "start": 0,
-            "duration": 212.2
-        },
-        "source_6": {
-            "instrument": "Violin_4",
-            "track": "concerto-in-d-minor/Mix_1/Violin_4.flac",
             "start": 0,
             "duration": 212.2
         },
@@ -1849,12 +1837,6 @@
         "source_5": {
             "instrument": "Violin_1",
             "track": "hallelujah/Mix_1/Violin_1.flac",
-            "start": 0,
-            "duration": 189.0
-        },
-        "source_6": {
-            "instrument": "Violin_2",
-            "track": "hallelujah/Mix_1/Violin_2.flac",
             "start": 0,
             "duration": 189.0
         },

@@ -8,6 +8,7 @@ import math
 from torch.utils import data
 import sys
 import torchaudio
+import re
 from torch.utils.data import DataLoader
 
 
@@ -16,25 +17,21 @@ class CadenzaDataset(data.Dataset):
         self,
         root_path,
         music_tracks_file,
-        segment_length = 5.0,
-        split: str = "train",
+        segment_length=5.0,
+        split: str="train",
         sample_rate=44100,
-        shift = 1.0, 
+        shift=1.0, 
     ):
         
         self.root_path = Path(root_path)
 
-        # if split == "train":
-        #     self.root_path = root_path / "train"
-
         self.music_tracks_file = Path(music_tracks_file)  # json文件的地址
         self.segment_length = segment_length
-        # self.split = split
         self.sample_rate = sample_rate
         self.shift = shift
 
         ## label_info
-        instrument_list = ['Basson', 'Clarinet', 'Flute', 'Oboe', 'Sax', 'Cello', 'Viola', 'Violin']
+        instrument_list = ['Bassoon', 'Clarinet', 'Flute', 'Oboe', 'Sax', 'Cello', 'Viola', 'Violin']
 
         with open(self.music_tracks_file) as f:
             self.tracks = json.load(f)   # self.tracks的值就是json，包括了所有的参数
@@ -46,116 +43,70 @@ class CadenzaDataset(data.Dataset):
         self.example_to_ins_index = []   # 用于记录每个分轨对应的ins标签
         self.example_to_pos_index = []   # 用于记录每个分轨对应的pos标签
 
-        '''
-        source_info {'instrument': 'Oboe', 'track': '02-lamortdase-strings/Mix_1/Oboe.flac', 'start': 0, 'duration': 249.0}
-        '''
-
         for track_name, sources in self.tracks.items():
-            for source_name, source_info in sources.items():
-                source_num = 0
+            num_sources = 0  # 初始化source数量计数器
 
+            # 统计当前歌曲的source数量
+            for source_name in sources:
                 if source_name.startswith("source"):
-                    source_num += 1
-                    # print(source_name)
+                    num_sources += 1
+
+            # 处理每个source
+            for source_name, source_info in sources.items():
+                if source_name.startswith("source"):
                     track_duration = source_info["duration"]
                     
                     examples = int(math.ceil((track_duration - self.segment_length) / self.shift) + 1)   # 每首歌曲能裁出来的片段数，这里的单位是秒(s)
 
-                    instrument_prefix = source_info['instrument'].split('_')[0]
+                    instrument_prefix = source_info['instrument'].split('_')[0]  # 对重复乐器的_1 _2进行去重
 
                     source_index = source_name.split('_')[-1]
 
-                    pos_index = self.find_pos_index(num_sources=, source_index=source_index)
+                    pos_index = self.find_pos_index(num_sources=num_sources, source_index=source_index)
                     
                     self.num_examples.append(examples)  # 这里是一个数组，记录了每个歌曲里面有多少个片段
-                    self.example_to_track.append(source_info['track'])
-                    self.example_to_ins_index.append(instrument_prefix)
+                    self.example_to_track.append(source_info['track'])   # 记录了这个example对应的track地址
+                    self.example_to_ins_index.append(instrument_list.index(instrument_prefix))
                     self.example_to_pos_index.append(pos_index)
-
             
-
     def __len__(self):
         return sum(self.num_examples)
     
     def __getitem__(self, index):
-        for track_name, examples in zip(self.tracks, self.num_examples):  # name：歌曲名字，examples：这首歌曲的采样片段数
+        for examples, track_dir, ins, pos in zip(self.num_examples, self.example_to_track, self.example_to_ins_index, self.example_to_pos_index):  # name：歌曲名字，examples：这首歌曲的采样片段数
             # print("name, examples", track_name, examples)
             # 用全局index来查询在哪一首歌曲里
             if index >= examples:
                 index -= examples
                 continue
 
-            track_data = self.tracks[track_name]  # 找到目标歌曲的轨道信息
-            # 找歌曲的对应的分轨，还有mixture
+            ### 读取分轨和mixture
+            # 分轨的：track_dir
+            # mixture的：track_dir改一下
+            mixture_dir = re.sub(r'/[^/]+\.flac$', '/mix_Mix_1.flac', track_dir)
             # 用采样率和时间换算，找到采样的位置
             segment_samples = int(self.segment_length * self.sample_rate)   # 裁剪片段长度
             shift_samples = int(self.shift * self.sample_rate)
 
             start_sample = int(index * shift_samples)   # 开始的sample点位置
             end_sample = start_sample + segment_samples   # 结束的sample点位置
-            
-            wavs = []
-            total_track_numbers = 0
-            setting_track_numbers = 0
 
-            # 统计有多少个轨道
-            # for source_name, source_data in track_data.items():
-            #     if source_name != "mixture":
-            #         total_track_numbers += 1
+            source_audio_path = self.root_path / track_dir
+            mixture_audio_path = self.root_path / mixture_dir
 
-            for source_name, source_data in track_data.items():    # 循环每个轨道
-                if source_name == "mixture":
-                    audio_path = self.root_path / source_data['track']
-                    audio, sr = torchaudio.load(Path(audio_path), frame_offset=end_sample, num_frames=segment_samples)
+            source_audio, sr = torchaudio.load(Path(source_audio_path), frame_offset=end_sample, num_frames=segment_samples)
+            mixture_audio, sr = torchaudio.load(Path(mixture_audio_path), frame_offset=end_sample, num_frames=segment_samples)
 
-                    if audio.size(1) < segment_samples:
-                        padding = torch.zeros(audio.size(0), segment_samples - audio.size(1))
-                        audio = torch.cat((audio, padding), dim=1)
-
-                    audio = (audio[0] + audio[1])/2  # 转换为单通道
-                    
-                    mixture = audio
-                    ilens = mixture.shape[0]
-                    # print(ilens)
-
-                if source_name != "mixture":
-                    audio_path = self.root_path / source_data['track']
-                    audio, sr = torchaudio.load(Path(audio_path),frame_offset=start_sample, num_frames=segment_samples)
-
-                    # 如果音频长度不够，用零填充
-                    if audio.size(1) < segment_samples:
-                        padding = torch.zeros(audio.size(0), segment_samples - audio.size(1))
-                        audio = torch.cat((audio, padding), dim=1)
-
-                    audio = (audio[0] + audio[1])/2 # 转换为单通道
-                    # TODO：增加panning代码   
-                    wavs.append(audio)
-                    setting_track_numbers = setting_track_numbers + 1
-
-            # while setting_track_numbers < 5:
-            #     empty_track = torch.zeros(2, segment_samples)
-            #     wavs.append(empty_track)
-            #     setting_track_numbers = setting_track_numbers + 1
-
-            # 查看一下wavs里面每个元素的大小
-            # for i, wav in enumerate(wavs):
-            #     print(f"wavs[{i}] size: {wav.size()}")
-
-            # total_track_numbers = 0
-
-            # final_sources = torch.cat(wavs)  # return: [bs, 10, 44100]
-            final_sources = torch.stack(wavs)  # return: [bs, 5, 2, 44100]
-
-            # if final_sources.size(0) != 5:
-            #     print("name", track_name)  # 找到的歌曲名字
-
-            return mixture, ilens, final_sources
+            return source_audio, mixture_audio, ins, pos
+ 
 
     def find_pos_index(self, num_sources, source_index):
         '''
         num_sources： 一共有多少个sources
         source_index：是第几个source
         '''
+        num_sources = int(num_sources)
+        source_index = int(source_index)
 
         if num_sources == 2:
             if source_index == 1:
@@ -259,24 +210,27 @@ if __name__ == "__main__":
         segment_length=3.0,
         shift = 2.0,
     )
-    print(len(dataset))
-    print(dataset.num_examples)
+    # print(len(dataset))
+    # print(dataset.num_examples)
     # print(len(dataset.num_examples))  # 分轨的个数总和
     # print(sum(dataset.num_examples))   # 总共切片数量
     # print(dataset.example_to_ins_index)   # 乐器表
     # print(len(dataset.example_to_ins_index))
     # print(len(dataset.example_to_track))
+    # print(dataset.example_to_pos_index)
+    # print(len(dataset.example_to_pos_index))
+    # print(len(dataset.example_to_ins_index))   ## instrument检测完毕
 
+    data_loader = DataLoader(dataset, batch_size=10, shuffle=False)  # 假设批量大小为4
 
-    data_loader = DataLoader(dataset, batch_size=10, shuffle=False, collate_fn=collate_fn)  # 假设批量大小为4
+    print(data_loader)
+    for batch_idx, (source_audio, mixture_audio, ins, pos) in enumerate(data_loader):
+        print(batch_idx)
 
-    # print(data_loader)
-    # for batch_idx, (mixed_signal, ilens, ys_wav_pad) in enumerate(data_loader):
-    #     print(batch_idx)
-    #     print("mixed_signal", mixed_signal)
+        print(source_audio)
+        print("mixed_signal", mixture_audio)
+        print(ins)
+        print(pos)
 
-    #     print("ilens", ilens)
-    #     print("ys_wav_pad", ys_wav_pad)
-    #     print("ys_wav_pad", type(ys_wav_pad))
-    #     print("hw")
-    #     sys.exit(-1)
+        print("hw")
+        sys.exit(-1)
