@@ -1,0 +1,2496 @@
+{
+    "02-lamortdase-strings": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/02-lamortdase-strings/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe",
+            "track": "EnsembleSet/02-lamortdase-strings/Mix_1/2_Oboe.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/02-lamortdase-strings/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/02-lamortdase-strings/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 249.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/02-lamortdase-strings/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 249.0
+        }
+    },
+    "AgitatoDaFiereTempeste": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/AgitatoDaFiereTempeste/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/AgitatoDaFiereTempeste/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/AgitatoDaFiereTempeste/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/AgitatoDaFiereTempeste/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/AgitatoDaFiereTempeste/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 169.0
+        }
+    },
+    "AlTardarDellaVendetta": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/AlTardarDellaVendetta/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 197.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/AlTardarDellaVendetta/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 197.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/AlTardarDellaVendetta/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 197.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/AlTardarDellaVendetta/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 197.0
+        }
+    },
+    "AllegroAssai": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/AllegroAssai/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/AllegroAssai/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/AllegroAssai/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_4": {
+            "instrument": "4_Oboe_2",
+            "track": "EnsembleSet/AllegroAssai/Mix_1/4_Oboe_2.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "source_5": {
+            "instrument": "5_Oboe_1",
+            "track": "EnsembleSet/AllegroAssai/Mix_1/5_Oboe_1.flac",
+            "start": 0,
+            "duration": 213.31
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/AllegroAssai/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 213.31
+        }
+    },
+    "BelPiacer": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/BelPiacer/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/BelPiacer/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/BelPiacer/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/BelPiacer/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 230.6
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/BelPiacer/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 230.6
+        }
+    },
+    "Calcante_ed_Achille": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/Calcante_ed_Achille/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Calcante_ed_Achille/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/Calcante_ed_Achille/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/Calcante_ed_Achille/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 61.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Calcante_ed_Achille/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 61.0
+        }
+    },
+    "CaraSposa": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/CaraSposa/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/CaraSposa/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/CaraSposa/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/CaraSposa/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 295.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/CaraSposa/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 295.0
+        }
+    },
+    "CorriVolaATuoiTrofei": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/CorriVolaATuoiTrofei/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/CorriVolaATuoiTrofei/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/CorriVolaATuoiTrofei/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/CorriVolaATuoiTrofei/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/CorriVolaATuoiTrofei/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 121.0
+        }
+    },
+    "DelDestin": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/DelDestin/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 159.67
+        },
+        "source_2": {
+            "instrument": "2_Violin",
+            "track": "EnsembleSet/DelDestin/Mix_1/2_Violin.flac",
+            "start": 0,
+            "duration": 159.67
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/DelDestin/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 159.67
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/DelDestin/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 159.67
+        }
+    },
+    "DellAlmaSuperba": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/DellAlmaSuperba/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 193.0
+        },
+        "source_2": {
+            "instrument": "2_Bassoon",
+            "track": "EnsembleSet/DellAlmaSuperba/Mix_1/2_Bassoon.flac",
+            "start": 0,
+            "duration": 193.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/DellAlmaSuperba/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 193.0
+        }
+    },
+    "Fra_l_ombre": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/Fra_l_ombre/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/Fra_l_ombre/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/Fra_l_ombre/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 169.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Fra_l_ombre/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 169.0
+        }
+    },
+    "Greci_tu_offendi": {
+        "source_1": {
+            "instrument": "1_Violin",
+            "track": "EnsembleSet/Greci_tu_offendi/Mix_1/1_Violin.flac",
+            "start": 0,
+            "duration": 225.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Greci_tu_offendi/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 225.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Greci_tu_offendi/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 225.0
+        }
+    },
+    "ImparaIngrata": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/ImparaIngrata/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "source_2": {
+            "instrument": "2_Violin",
+            "track": "EnsembleSet/ImparaIngrata/Mix_1/2_Violin.flac",
+            "start": 0,
+            "duration": 121.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/ImparaIngrata/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 121.0
+        }
+    },
+    "IoGiaTAmai": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/IoGiaTAmai/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_2": {
+            "instrument": "2_Violin",
+            "track": "EnsembleSet/IoGiaTAmai/Mix_1/2_Violin.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/IoGiaTAmai/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/IoGiaTAmai/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 129.0
+        }
+    },
+    "LaGloriaSola": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/LaGloriaSola/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 145.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/LaGloriaSola/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 145.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/LaGloriaSola/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 145.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/LaGloriaSola/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 145.0
+        }
+    },
+    "Marche": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/Marche/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Marche/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/Marche/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/Marche/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 67.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Marche/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 67.0
+        }
+    },
+    "MentreDormi": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/MentreDormi/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/MentreDormi/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/MentreDormi/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/MentreDormi/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 247.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/MentreDormi/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 247.0
+        }
+    },
+    "MiseroPargoletto": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/MiseroPargoletto/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/MiseroPargoletto/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/MiseroPargoletto/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/MiseroPargoletto/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 260.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/MiseroPargoletto/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 260.2
+        }
+    },
+    "NelleNubiIntornoAlFato": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/NelleNubiIntornoAlFato/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/NelleNubiIntornoAlFato/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/NelleNubiIntornoAlFato/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/NelleNubiIntornoAlFato/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 160.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/NelleNubiIntornoAlFato/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 160.0
+        }
+    },
+    "NonPensiQuellAltera": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/NonPensiQuellAltera/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 207.5
+        },
+        "source_2": {
+            "instrument": "2_Violin",
+            "track": "EnsembleSet/NonPensiQuellAltera/Mix_1/2_Violin.flac",
+            "start": 0,
+            "duration": 207.5
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/NonPensiQuellAltera/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 207.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/NonPensiQuellAltera/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 207.5
+        }
+    },
+    "Parto_ti_lascio": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/Parto_ti_lascio/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Parto_ti_lascio/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/Parto_ti_lascio/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/Parto_ti_lascio/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 326.54
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Parto_ti_lascio/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 326.54
+        }
+    },
+    "Passacaglia": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/Passacaglia/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Passacaglia/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/Passacaglia/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/Passacaglia/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 733.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Passacaglia/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 733.5
+        }
+    },
+    "Passaggier": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/Passaggier/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/Passaggier/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/Passaggier/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/Passaggier/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 233.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Passaggier/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 233.0
+        }
+    },
+    "Precipitoso_nel_mar": {
+        "source_1": {
+            "instrument": "1_Violin",
+            "track": "EnsembleSet/Precipitoso_nel_mar/Mix_1/1_Violin.flac",
+            "start": 0,
+            "duration": 101.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Precipitoso_nel_mar/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 101.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Precipitoso_nel_mar/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 101.0
+        }
+    },
+    "RM-C012": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/RM-C012/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/RM-C012/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/RM-C012/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/RM-C012/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "source_5": {
+            "instrument": "5_Flute",
+            "track": "EnsembleSet/RM-C012/Mix_1/5_Flute.flac",
+            "start": 0,
+            "duration": 387.86
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C012/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 387.86
+        }
+    },
+    "RM-C013": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/RM-C013/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/RM-C013/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/RM-C013/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/RM-C013/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 499.36
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C013/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 499.36
+        }
+    },
+    "RM-C014": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/RM-C014/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/RM-C014/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/RM-C014/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/RM-C014/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 400.03
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C014/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 400.03
+        }
+    },
+    "RM-C015": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/RM-C015/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/RM-C015/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/RM-C015/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/RM-C015/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 458.06
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C015/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 458.06
+        }
+    },
+    "RM-C016": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/RM-C016/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/RM-C016/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/RM-C016/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/RM-C016/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "source_5": {
+            "instrument": "5_Clarinet",
+            "track": "EnsembleSet/RM-C016/Mix_1/5_Clarinet.flac",
+            "start": 0,
+            "duration": 557.58
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C016/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 557.58
+        }
+    },
+    "RM-C017": {
+        "source_1": {
+            "instrument": "1_Clarinet",
+            "track": "EnsembleSet/RM-C017/Mix_1/1_Clarinet.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/RM-C017/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/RM-C017/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/RM-C017/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "source_5": {
+            "instrument": "5_Violin_2",
+            "track": "EnsembleSet/RM-C017/Mix_1/5_Violin_2.flac",
+            "start": 0,
+            "duration": 293.04
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C017/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 293.04
+        }
+    },
+    "RM-C019": {
+        "source_1": {
+            "instrument": "1_Violin",
+            "track": "EnsembleSet/RM-C019/Mix_1/1_Violin.flac",
+            "start": 0,
+            "duration": 569.78
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/RM-C019/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 569.78
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C019/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 569.78
+        }
+    },
+    "RM-C020": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/RM-C020/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 619.69
+        },
+        "source_2": {
+            "instrument": "2_Violin",
+            "track": "EnsembleSet/RM-C020/Mix_1/2_Violin.flac",
+            "start": 0,
+            "duration": 619.69
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C020/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 619.69
+        }
+    },
+    "RM-C021": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/RM-C021/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/RM-C021/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/RM-C021/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/RM-C021/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 468.81
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/RM-C021/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 468.81
+        }
+    },
+    "Ride_il_ciel": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/Ride_il_ciel/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/Ride_il_ciel/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/Ride_il_ciel/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/Ride_il_ciel/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 207.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Ride_il_ciel/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 207.0
+        }
+    },
+    "SchubertF-D703-Quartettsatz": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/SchubertF-D703-Quartettsatz/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/SchubertF-D703-Quartettsatz/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/SchubertF-D703-Quartettsatz/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/SchubertF-D703-Quartettsatz/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 590.43
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/SchubertF-D703-Quartettsatz/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 590.43
+        }
+    },
+    "SeDelFiume": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/SeDelFiume/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/SeDelFiume/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/SeDelFiume/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/SeDelFiume/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 146.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/SeDelFiume/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 146.2
+        }
+    },
+    "Se_potessero": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/Se_potessero/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/Se_potessero/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/Se_potessero/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/Se_potessero/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Se_potessero/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 217.0
+        }
+    },
+    "Semiramide_riconosciuta": {
+        "source_1": {
+            "instrument": "1_Oboe_1",
+            "track": "EnsembleSet/Semiramide_riconosciuta/Mix_1/1_Oboe_1.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Semiramide_riconosciuta/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/Semiramide_riconosciuta/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/Semiramide_riconosciuta/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "source_5": {
+            "instrument": "5_Oboe_2",
+            "track": "EnsembleSet/Semiramide_riconosciuta/Mix_1/5_Oboe_2.flac",
+            "start": 0,
+            "duration": 157.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Semiramide_riconosciuta/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 157.0
+        }
+    },
+    "SentiSeLIngannai": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/SentiSeLIngannai/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/SentiSeLIngannai/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/SentiSeLIngannai/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/SentiSeLIngannai/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 98.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/SentiSeLIngannai/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 98.5
+        }
+    },
+    "SiamNavi": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/SiamNavi/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/SiamNavi/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/SiamNavi/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/SiamNavi/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 205.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/SiamNavi/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 205.0
+        }
+    },
+    "Sol_la_brama": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/Sol_la_brama/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/Sol_la_brama/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/Sol_la_brama/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/Sol_la_brama/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 216.35
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Sol_la_brama/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 216.35
+        }
+    },
+    "Vado_a_recar": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/Vado_a_recar/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 80.2
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/Vado_a_recar/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 80.2
+        },
+        "source_3": {
+            "instrument": "3_Violin",
+            "track": "EnsembleSet/Vado_a_recar/Mix_1/3_Violin.flac",
+            "start": 0,
+            "duration": 80.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Vado_a_recar/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 80.2
+        }
+    },
+    "Voglio_che_sia_l_indegno": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/Voglio_che_sia_l_indegno/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/Voglio_che_sia_l_indegno/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/Voglio_che_sia_l_indegno/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/Voglio_che_sia_l_indegno/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Voglio_che_sia_l_indegno/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 287.0
+        }
+    },
+    "Voi_che_le_mie_vicende": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/Voi_che_le_mie_vicende/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/Voi_che_le_mie_vicende/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/Voi_che_le_mie_vicende/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/Voi_che_le_mie_vicende/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 116.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/Voi_che_le_mie_vicende/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 116.2
+        }
+    },
+    "aasesdeath": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/aasesdeath/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/aasesdeath/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/aasesdeath/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/aasesdeath/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 217.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/aasesdeath/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 217.0
+        }
+    },
+    "anitrasdance": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/anitrasdance/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/anitrasdance/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/anitrasdance/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/anitrasdance/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 105.62
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/anitrasdance/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 105.62
+        }
+    },
+    "autumn": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/autumn/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/autumn/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/autumn/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/autumn/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/autumn/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 231.0
+        }
+    },
+    "concerto-in-d-minor": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/concerto-in-d-minor/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/concerto-in-d-minor/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_3": {
+            "instrument": "3_Violin_3",
+            "track": "EnsembleSet/concerto-in-d-minor/Mix_1/3_Violin_3.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/concerto-in-d-minor/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "source_5": {
+            "instrument": "5_Violin_2",
+            "track": "EnsembleSet/concerto-in-d-minor/Mix_1/5_Violin_2.flac",
+            "start": 0,
+            "duration": 212.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/concerto-in-d-minor/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 212.2
+        }
+    },
+    "concerto-in-e-major": {
+        "source_1": {
+            "instrument": "1_Violin_3",
+            "track": "EnsembleSet/concerto-in-e-major/Mix_1/1_Violin_3.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/concerto-in-e-major/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/concerto-in-e-major/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/concerto-in-e-major/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "source_5": {
+            "instrument": "5_Violin_2",
+            "track": "EnsembleSet/concerto-in-e-major/Mix_1/5_Violin_2.flac",
+            "start": 0,
+            "duration": 380.64
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/concerto-in-e-major/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 380.64
+        }
+    },
+    "contrapunctusII": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/contrapunctusII/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/contrapunctusII/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/contrapunctusII/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/contrapunctusII/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 185.17
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 185.17
+        }
+    },
+    "contrapunctusIII": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/contrapunctusIII/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/contrapunctusIII/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/contrapunctusIII/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/contrapunctusIII/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 157.09
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusIII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 157.09
+        }
+    },
+    "contrapunctusIV": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/contrapunctusIV/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/contrapunctusIV/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/contrapunctusIV/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/contrapunctusIV/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 287.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusIV/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 287.0
+        }
+    },
+    "contrapunctusIX": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/contrapunctusIX/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/contrapunctusIX/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/contrapunctusIX/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/contrapunctusIX/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusIX/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 281.73
+        }
+    },
+    "contrapunctusV": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/contrapunctusV/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/contrapunctusV/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/contrapunctusV/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/contrapunctusV/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 183.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusV/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 183.0
+        }
+    },
+    "contrapunctusVI": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/contrapunctusVI/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/contrapunctusVI/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/contrapunctusVI/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/contrapunctusVI/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 159.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusVI/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 159.0
+        }
+    },
+    "contrapunctusVII": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/contrapunctusVII/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/contrapunctusVII/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/contrapunctusVII/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/contrapunctusVII/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 123.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusVII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 123.0
+        }
+    },
+    "contrapunctusVIII": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/contrapunctusVIII/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 386.2
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/contrapunctusVIII/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 386.2
+        },
+        "source_3": {
+            "instrument": "3_Violin",
+            "track": "EnsembleSet/contrapunctusVIII/Mix_1/3_Violin.flac",
+            "start": 0,
+            "duration": 386.2
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusVIII/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 386.2
+        }
+    },
+    "contrapunctusX": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/contrapunctusX/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/contrapunctusX/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/contrapunctusX/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/contrapunctusX/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/contrapunctusX/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 267.73
+        }
+    },
+    "eine-kleine-nachtmusik-mvt1": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/eine-kleine-nachtmusik-mvt1/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/eine-kleine-nachtmusik-mvt1/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/eine-kleine-nachtmusik-mvt1/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/eine-kleine-nachtmusik-mvt1/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 321.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/eine-kleine-nachtmusik-mvt1/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 321.0
+        }
+    },
+    "hallelujah": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/hallelujah/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_2": {
+            "instrument": "2_Bassoon",
+            "track": "EnsembleSet/hallelujah/Mix_1/2_Bassoon.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/hallelujah/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/hallelujah/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "source_5": {
+            "instrument": "5_Oboe",
+            "track": "EnsembleSet/hallelujah/Mix_1/5_Oboe.flac",
+            "start": 0,
+            "duration": 189.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/hallelujah/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 189.0
+        }
+    },
+    "k387": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/k387/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/k387/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/k387/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/k387/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 341.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/k387/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 341.0
+        }
+    },
+    "k421": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/k421/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/k421/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/k421/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/k421/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 318.33
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/k421/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 318.33
+        }
+    },
+    "k428": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/k428/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/k428/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/k428/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/k428/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 329.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/k428/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 329.0
+        }
+    },
+    "k458": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/k458/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/k458/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/k458/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/k458/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 362.29
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/k458/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 362.29
+        }
+    },
+    "k464": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/k464/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/k464/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/k464/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/k464/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 348.14
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/k464/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 348.14
+        }
+    },
+    "k465": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/k465/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/k465/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/k465/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/k465/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 1444.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/k465/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 1444.0
+        }
+    },
+    "op1_1": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/op1_1/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/op1_1/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/op1_1/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/op1_1/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 94.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op1_1/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 94.0
+        }
+    },
+    "op1_2": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/op1_2/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/op1_2/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_3": {
+            "instrument": "3_Cello",
+            "track": "EnsembleSet/op1_2/Mix_1/3_Cello.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/op1_2/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 129.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op1_2/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 129.0
+        }
+    },
+    "op1_3": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/op1_3/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/op1_3/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/op1_3/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "source_4": {
+            "instrument": "4_Violin_1",
+            "track": "EnsembleSet/op1_3/Mix_1/4_Violin_1.flac",
+            "start": 0,
+            "duration": 227.29
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op1_3/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 227.29
+        }
+    },
+    "op1_4": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/op1_4/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/op1_4/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/op1_4/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/op1_4/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 75.57
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op1_4/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 75.57
+        }
+    },
+    "op76-n1": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/op76-n1/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/op76-n1/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/op76-n1/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/op76-n1/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 338.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op76-n1/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 338.5
+        }
+    },
+    "op76-n2": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/op76-n2/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/op76-n2/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/op76-n2/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/op76-n2/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 311.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op76-n2/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 311.0
+        }
+    },
+    "op76-n3": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/op76-n3/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "source_2": {
+            "instrument": "2_Viola",
+            "track": "EnsembleSet/op76-n3/Mix_1/2_Viola.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/op76-n3/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/op76-n3/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 305.8
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op76-n3/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 305.8
+        }
+    },
+    "op76-n4": {
+        "source_1": {
+            "instrument": "1_Cello",
+            "track": "EnsembleSet/op76-n4/Mix_1/1_Cello.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/op76-n4/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/op76-n4/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/op76-n4/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 377.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op76-n4/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 377.0
+        }
+    },
+    "op76-n5": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/op76-n5/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/op76-n5/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/op76-n5/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/op76-n5/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 318.5
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op76-n5/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 318.5
+        }
+    },
+    "op76-n6": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/op76-n6/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/op76-n6/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/op76-n6/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/op76-n6/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 310.55
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/op76-n6/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 310.55
+        }
+    },
+    "quart18": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/quart18/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "source_2": {
+            "instrument": "2_Violin_2",
+            "track": "EnsembleSet/quart18/Mix_1/2_Violin_2.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_1",
+            "track": "EnsembleSet/quart18/Mix_1/3_Violin_1.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/quart18/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 749.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/quart18/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 749.0
+        }
+    },
+    "spring": {
+        "source_1": {
+            "instrument": "1_Violin_2",
+            "track": "EnsembleSet/spring/Mix_1/1_Violin_2.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "source_2": {
+            "instrument": "2_Violin_1",
+            "track": "EnsembleSet/spring/Mix_1/2_Violin_1.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "EnsembleSet/spring/Mix_1/3_Viola.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "source_4": {
+            "instrument": "4_Cello",
+            "track": "EnsembleSet/spring/Mix_1/4_Cello.flac",
+            "start": 0,
+            "duration": 174.22
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/spring/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 174.22
+        }
+    },
+    "summer": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "EnsembleSet/summer/Mix_1/1_Violin_1.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/summer/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "source_3": {
+            "instrument": "3_Violin_2",
+            "track": "EnsembleSet/summer/Mix_1/3_Violin_2.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "source_4": {
+            "instrument": "4_Viola",
+            "track": "EnsembleSet/summer/Mix_1/4_Viola.flac",
+            "start": 0,
+            "duration": 253.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/summer/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 253.0
+        }
+    },
+    "winter": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "EnsembleSet/winter/Mix_1/1_Viola.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "source_2": {
+            "instrument": "2_Cello",
+            "track": "EnsembleSet/winter/Mix_1/2_Cello.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "source_3": {
+            "instrument": "3_mix_winter",
+            "track": "EnsembleSet/winter/Mix_1/3_mix_winter.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "source_4": {
+            "instrument": "4_Violin_2",
+            "track": "EnsembleSet/winter/Mix_1/4_Violin_2.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "source_5": {
+            "instrument": "5_Violin_1",
+            "track": "EnsembleSet/winter/Mix_1/5_Violin_1.flac",
+            "start": 0,
+            "duration": 109.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "EnsembleSet/winter/Mix_1/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 109.0
+        }
+    }
+}

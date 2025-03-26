@@ -1,0 +1,150 @@
+{
+    "7": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "Remixed/7/1_Viola.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_7",
+            "track": "Remixed/7/2_Flute_7.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_3": {
+            "instrument": "3_Oboe_9",
+            "track": "Remixed/7/3_Oboe_9.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_4": {
+            "instrument": "4_Sax_3",
+            "track": "Remixed/7/4_Sax_3.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "source_5": {
+            "instrument": "5_Bassoon_6",
+            "track": "Remixed/7/5_Bassoon_6.flac",
+            "start": 0,
+            "duration": 231.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Remixed/7/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 231.0
+        }
+    },
+    "57": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "Remixed/57/1_Viola.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Clarinet_2",
+            "track": "Remixed/57/2_Clarinet_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Remixed/57/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "23": {
+        "source_1": {
+            "instrument": "1_Viola",
+            "track": "Remixed/23/1_Viola.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_2": {
+            "instrument": "2_Oboe_1",
+            "track": "Remixed/23/2_Oboe_1.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_3": {
+            "instrument": "3_Viola",
+            "track": "Remixed/23/3_Viola.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "source_4": {
+            "instrument": "4_Oboe_1",
+            "track": "Remixed/23/4_Oboe_1.flac",
+            "start": 0,
+            "duration": 281.73
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Remixed/23/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 281.73
+        }
+    },
+    "4": {
+        "source_1": {
+            "instrument": "1_Violin_1",
+            "track": "Remixed/4/1_Violin_1.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "source_2": {
+            "instrument": "2_Sax_4",
+            "track": "Remixed/4/2_Sax_4.flac",
+            "start": 0,
+            "duration": 267.73
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Remixed/4/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 267.73
+        }
+    },
+    "39": {
+        "source_1": {
+            "instrument": "1_Flute_1",
+            "track": "Remixed/39/1_Flute_1.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_10",
+            "track": "Remixed/39/2_Flute_10.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Sax_11",
+            "track": "Remixed/39/3_Sax_11.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Sax_5",
+            "track": "Remixed/39/4_Sax_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_5": {
+            "instrument": "5_Flute_3",
+            "track": "Remixed/39/5_Flute_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "Remixed/39/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    }
+}

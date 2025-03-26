@@ -1,0 +1,802 @@
+{
+    "sq11154985_2_6_sq11154985_2": {
+        "source_1": {
+            "instrument": "1_Sax_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/6_sq11154985_2/1_Sax_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/6_sq11154985_2/2_Flute_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Oboe_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/6_sq11154985_2/3_Oboe_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/6_sq11154985_2/4_Bassoon_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/6_sq11154985_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8806746_1_sq8806746": {
+        "source_1": {
+            "instrument": "1_Flute_1",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/1_sq8806746/1_Flute_1.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_1",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/1_sq8806746/2_Oboe_1.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Clarinet_1",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/1_sq8806746/3_Clarinet_1.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_1",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/1_sq8806746/4_Bassoon_1.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/1_sq8806746/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq7588853_2_5_sq7588853_2": {
+        "source_1": {
+            "instrument": "1_Bassoon_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/5_sq7588853_2/1_Bassoon_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Sax_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/5_sq7588853_2/2_Sax_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Flute_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/5_sq7588853_2/3_Flute_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Oboe_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/5_sq7588853_2/4_Oboe_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/5_sq7588853_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq7588853_6_sq7588853": {
+        "source_1": {
+            "instrument": "1_Oboe_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853/6_sq7588853/1_Oboe_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853/6_sq7588853/2_Flute_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Bassoon_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853/6_sq7588853/3_Bassoon_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Clarinet_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853/6_sq7588853/4_Clarinet_6.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853/6_sq7588853/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8907120_2_4_sq8907120_2": {
+        "source_1": {
+            "instrument": "1_Oboe_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/4_sq8907120_2/1_Oboe_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Sax_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/4_sq8907120_2/2_Sax_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Bassoon_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/4_sq8907120_2/3_Bassoon_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Flute_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/4_sq8907120_2/4_Flute_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/4_sq8907120_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8806746_4_sq8806746": {
+        "source_1": {
+            "instrument": "1_Flute_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/4_sq8806746/1_Flute_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/4_sq8806746/2_Oboe_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Clarinet_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/4_sq8806746/3_Clarinet_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/4_sq8806746/4_Bassoon_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746/4_sq8806746/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8818128_2_9_sq8818128_2": {
+        "source_1": {
+            "instrument": "1_Sax_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128_2/9_sq8818128_2/1_Sax_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128_2/9_sq8818128_2/2_Oboe_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Bassoon_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128_2/9_sq8818128_2/3_Bassoon_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Flute_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128_2/9_sq8818128_2/4_Flute_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128_2/9_sq8818128_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq7383977_2_11_sq7383977_2": {
+        "source_1": {
+            "instrument": "1_Bassoon_11",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7383977_2/11_sq7383977_2/1_Bassoon_11.flac",
+            "start": 0,
+            "duration": 142.36
+        },
+        "source_2": {
+            "instrument": "2_Oboe_11",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7383977_2/11_sq7383977_2/2_Oboe_11.flac",
+            "start": 0,
+            "duration": 142.36
+        },
+        "source_3": {
+            "instrument": "3_Flute_11",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7383977_2/11_sq7383977_2/3_Flute_11.flac",
+            "start": 0,
+            "duration": 142.36
+        },
+        "source_4": {
+            "instrument": "4_Sax_11",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7383977_2/11_sq7383977_2/4_Sax_11.flac",
+            "start": 0,
+            "duration": 142.36
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7383977_2/11_sq7383977_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 142.36
+        }
+    },
+    "sq8806746_2_5_sq8806746_2": {
+        "source_1": {
+            "instrument": "1_Bassoon_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/5_sq8806746_2/1_Bassoon_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/5_sq8806746_2/2_Oboe_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Sax_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/5_sq8806746_2/3_Sax_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Flute_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/5_sq8806746_2/4_Flute_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/5_sq8806746_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq9396439_3_sq9396439": {
+        "source_1": {
+            "instrument": "1_Bassoon_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439/3_sq9396439/1_Bassoon_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439/3_sq9396439/2_Flute_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Clarinet_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439/3_sq9396439/3_Clarinet_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Oboe_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439/3_sq9396439/4_Oboe_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439/3_sq9396439/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8818128_8_sq8818128": {
+        "source_1": {
+            "instrument": "1_Bassoon_8",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128/8_sq8818128/1_Bassoon_8.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_8",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128/8_sq8818128/2_Flute_8.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Clarinet_8",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128/8_sq8818128/3_Clarinet_8.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Oboe_8",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128/8_sq8818128/4_Oboe_8.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8818128/8_sq8818128/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8806746_2_6_sq8806746_2": {
+        "source_1": {
+            "instrument": "1_Bassoon_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/6_sq8806746_2/1_Bassoon_6.flac",
+            "start": 0,
+            "duration": 24.54
+        },
+        "source_2": {
+            "instrument": "2_Oboe_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/6_sq8806746_2/2_Oboe_6.flac",
+            "start": 0,
+            "duration": 24.54
+        },
+        "source_3": {
+            "instrument": "3_Sax_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/6_sq8806746_2/3_Sax_6.flac",
+            "start": 0,
+            "duration": 24.54
+        },
+        "source_4": {
+            "instrument": "4_Flute_6",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/6_sq8806746_2/4_Flute_6.flac",
+            "start": 0,
+            "duration": 24.54
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8806746_2/6_sq8806746_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 24.54
+        }
+    },
+    "sq7555331_2_7_sq7555331_2": {
+        "source_1": {
+            "instrument": "1_Oboe_7",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331_2/7_sq7555331_2/1_Oboe_7.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_7",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331_2/7_sq7555331_2/2_Flute_7.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Sax_7",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331_2/7_sq7555331_2/3_Sax_7.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_7",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331_2/7_sq7555331_2/4_Bassoon_7.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331_2/7_sq7555331_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq9631717_19_sq9631717": {
+        "source_1": {
+            "instrument": "1_Clarinet_19",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/19_sq9631717/1_Clarinet_19.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_19",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/19_sq9631717/2_Oboe_19.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Flute_19",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/19_sq9631717/3_Flute_19.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_19",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/19_sq9631717/4_Bassoon_19.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/19_sq9631717/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq9071492_2_3_sq9071492_2": {
+        "source_1": {
+            "instrument": "1_Oboe_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9071492_2/3_sq9071492_2/1_Oboe_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Sax_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9071492_2/3_sq9071492_2/2_Sax_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Bassoon_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9071492_2/3_sq9071492_2/3_Bassoon_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Flute_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9071492_2/3_sq9071492_2/4_Flute_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9071492_2/3_sq9071492_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq10490761_4_sq10490761": {
+        "source_1": {
+            "instrument": "1_Flute_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq10490761/4_sq10490761/1_Flute_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Bassoon_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq10490761/4_sq10490761/2_Bassoon_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Clarinet_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq10490761/4_sq10490761/3_Clarinet_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Oboe_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq10490761/4_sq10490761/4_Oboe_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq10490761/4_sq10490761/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq11154985_2_13_sq11154985_2": {
+        "source_1": {
+            "instrument": "1_Sax_13",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/13_sq11154985_2/1_Sax_13.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_13",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/13_sq11154985_2/2_Flute_13.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Oboe_13",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/13_sq11154985_2/3_Oboe_13.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_13",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/13_sq11154985_2/4_Bassoon_13.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq11154985_2/13_sq11154985_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq7588853_2_2_sq7588853_2": {
+        "source_1": {
+            "instrument": "1_Bassoon_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/2_sq7588853_2/1_Bassoon_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Sax_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/2_sq7588853_2/2_Sax_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Flute_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/2_sq7588853_2/3_Flute_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Oboe_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/2_sq7588853_2/4_Oboe_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7588853_2/2_sq7588853_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq7555331_5_sq7555331": {
+        "source_1": {
+            "instrument": "1_Flute_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331/5_sq7555331/1_Flute_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331/5_sq7555331/2_Oboe_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Bassoon_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331/5_sq7555331/3_Bassoon_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Clarinet_5",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331/5_sq7555331/4_Clarinet_5.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7555331/5_sq7555331/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8907120_2_9_sq8907120_2": {
+        "source_1": {
+            "instrument": "1_Oboe_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/9_sq8907120_2/1_Oboe_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Sax_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/9_sq8907120_2/2_Sax_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Bassoon_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/9_sq8907120_2/3_Bassoon_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Flute_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/9_sq8907120_2/4_Flute_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8907120_2/9_sq8907120_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq9631717_2_3_sq9631717_2": {
+        "source_1": {
+            "instrument": "1_Sax_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717_2/3_sq9631717_2/1_Sax_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Bassoon_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717_2/3_sq9631717_2/2_Bassoon_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Flute_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717_2/3_sq9631717_2/3_Flute_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Oboe_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717_2/3_sq9631717_2/4_Oboe_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717_2/3_sq9631717_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq7577795_2_2_sq7577795_2": {
+        "source_1": {
+            "instrument": "1_Flute_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7577795_2/2_sq7577795_2/1_Flute_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7577795_2/2_sq7577795_2/2_Oboe_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Sax_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7577795_2/2_sq7577795_2/3_Sax_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_2",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7577795_2/2_sq7577795_2/4_Bassoon_2.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq7577795_2/2_sq7577795_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq9631717_9_sq9631717": {
+        "source_1": {
+            "instrument": "1_Clarinet_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/9_sq9631717/1_Clarinet_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/9_sq9631717/2_Oboe_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Flute_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/9_sq9631717/3_Flute_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Bassoon_9",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/9_sq9631717/4_Bassoon_9.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9631717/9_sq9631717/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq8454356_2_3_sq8454356_2": {
+        "source_1": {
+            "instrument": "1_Bassoon_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8454356_2/3_sq8454356_2/1_Bassoon_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Flute_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8454356_2/3_sq8454356_2/2_Flute_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Sax_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8454356_2/3_sq8454356_2/3_Sax_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Oboe_3",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8454356_2/3_sq8454356_2/4_Oboe_3.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq8454356_2/3_sq8454356_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    },
+    "sq9396439_2_4_sq9396439_2": {
+        "source_1": {
+            "instrument": "1_Sax_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439_2/4_sq9396439_2/1_Sax_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_2": {
+            "instrument": "2_Oboe_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439_2/4_sq9396439_2/2_Oboe_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_3": {
+            "instrument": "3_Bassoon_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439_2/4_sq9396439_2/3_Bassoon_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "source_4": {
+            "instrument": "4_Flute_4",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439_2/4_sq9396439_2/4_Flute_4.flac",
+            "start": 0,
+            "duration": 200.0
+        },
+        "mixture": {
+            "instrument": "Mixture",
+            "track": "CadenzaWoodwind_clipped_Reverb/sq9396439_2/4_sq9396439_2/mix_Mix_1.flac",
+            "start": 0,
+            "duration": 200.0
+        }
+    }
+}

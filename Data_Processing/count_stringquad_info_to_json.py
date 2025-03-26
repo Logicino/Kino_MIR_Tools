@@ -6,8 +6,11 @@ import mutagen  # 需要安装mutagen库来读取flac文件信息
 import sys
 
 # 定义根目录
-ROOT_DIR = "/data/xyth/Dataset/My_Final_Dataset_s1r2/Remixed"
-# ROOT_DIR = "/data/xyth/Dataset/My_Final_Dataset_s1r2/CadenzaWoodwind_clipped_no_Reverb"
+# ROOT_DIR = "/data/xyth/Dataset/My_Final_Dataset_s1r2/Remixed"
+# ROOT_DIR = "/data/xyth/Dataset/stringqud_reverb_shuffle"
+# ROOT_DIR = "/data/xyth/Dataset/stringqud_reverb_two_seating"
+# ROOT_DIR = "/data/xyth/Dataset/URMP_test_set"
+ROOT_DIR = "/data/xyth/Dataset/stringquad_reverb_2seating_for_validation"
 
 # 初始化JSON数据结构
 data = {}
@@ -37,17 +40,19 @@ def process_Remixed():
                 # 列出Mix_1文件夹中的所有.flac文件
                 for flac_file in os.listdir(mix_1_path):
                     
-                    if flac_file.endswith('.flac'):
+                    if flac_file.endswith('.wav'):
                         flac_path = os.path.join(mix_1_path, flac_file)
                         # 使用mutagen读取flac文件信息
+                        print("filepath", flac_path)
                         audio = mutagen.File(flac_path)
                         if duration == 0:  # 如果duration还未设置，则计算一次
                             duration = round(audio.info.length, 2)  # 四舍五入到两位小数
                         
-                        if flac_file == 'mix_Mix_1.flac':
+                        # if flac_file == 'mix_Mix_1.flac':
+                        if flac_file.startswith("mix")==True:
                             mixture = {
                                 "instrument": "Mixture",
-                                "track": os.path.join("Remixed", song_dir, flac_file),
+                                "track": os.path.join(song_dir, flac_file),
                                 "start": 0,
                                 "duration": duration
                             }
@@ -56,7 +61,7 @@ def process_Remixed():
                             instrument = flac_file.replace('.flac', '')
                             sources[f"source_{len(sources) + 1}"] = {
                                 "instrument": instrument,
-                                "track": os.path.join("Remixed", song_dir, flac_file),
+                                "track": os.path.join(song_dir, flac_file),
                                 "start": 0,
                                 "duration": duration
                             }
@@ -64,11 +69,10 @@ def process_Remixed():
                 # 将分轨和混合音频添加到JSON数据结构中
                 data[song_dir] = {**sources, "mixture": mixture}
 
+    # 将JSON数据写入文件
+    with open('tracks_info.json', 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+
 
 process_Remixed()
-      
-# 将JSON数据写入文件
-with open('tracks_info.json', 'w') as json_file:
-    json.dump(data, json_file, indent=4)
-
 print("JSON file has been created.")

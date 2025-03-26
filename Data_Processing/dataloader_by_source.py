@@ -142,60 +142,6 @@ class CadenzaDataset(data.Dataset):
                 return 9
         
 
-def collate_fn(batch):
-    # batch是一个列表，其中包含了多个(mixture, ilens, final_sources)元组
-    mixtures, ilens, sources = zip(*batch)  # 解压批次数据
-
-    '''
-    mixtures: 
-        tuple, (tensor([-0.0057, -0.0071, -0.0084,  ...,]), tensor([0., 0., 0.,  ...,]), ...)
-    ilens: 
-        tuple, (441000, 441000, 441000, ...)
-    sources:
-        tuple, (tensor([[5.7220e-03,  6.2256e-03,  6.8817e-03,  ...,], [ 2.9144e-03,  3.0975e-03,  3.1433e-03,  ..., ], ...]), tensor([[5.7220e-03,  6.2256e-03,  6.8817e-03,  ...,], [ 2.9144e-03,  3.0975e-03,  3.1433e-03,  ..., ], ...]))
-        从外到里：batch，每首歌
-    '''
-    # print("mixtures", mixtures)
-    # print("ilens", ilens)
-    # print("sources", sources)
-
-    batch_size = len(sources)
-    # print(sources[0].shape[0])  # number of sources
-
-    # 找到有最多分轨的分轨数量
-    max_num_of_sources = 0
-    for i in range(batch_size):
-        if (sources[i].shape[0] > max_num_of_sources):
-            max_num_of_sources = sources[i].shape[0]
-
-    # print(max_num_of_sources)
-
-    # 对mixtures进行填充（？）mixtures不需要填充
-    # 将tuple转为list
-    mixtures = list(mixtures)
-    ilens = list(ilens)
-    sources = list(sources)
-    # print("mixtures", mixtures)
-
-    # 对final_sources进行填充
-    for i in range(batch_size):
-        # 如果这首歌的sources数量，比最大的sources数量小的话，进行填充
-        if (sources[i].shape[0] < max_num_of_sources):
-            source_to_be_pad_num = max_num_of_sources - sources[i].shape[0]
-            paddings = torch.zeros(source_to_be_pad_num, ilens[0])  # 按缺的轨道数目、序列长度填充
-            sources_to_be_pad = sources[i]
-            # print("source[i]", sources[i])
-            sources_padded = torch.vstack((sources_to_be_pad, paddings))
-            # print("sources_padded", sources_padded)
-
-            sources[i] = sources_padded
-
-    mixtures_tensor = torch.stack(mixtures)
-    ilens_tensor = torch.tensor(ilens)
-    sources_tensor = torch.stack(sources)
-
-    return mixtures_tensor, ilens_tensor, sources_tensor
-
 if __name__ == "__main__":
     _root_path = Path(
         "/data/xyth/Dataset/Stereo_Reverb_EnsembleSet"
